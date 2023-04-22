@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "Description for `npm run dev` command",
+    "build": "Description for `npm run build` command",
+    "preview": "Description for `npm run preview` command"
+  }
+}
